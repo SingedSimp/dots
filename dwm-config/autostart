@@ -1,0 +1,11 @@
+#!/bin/sh
+
+# add your autostart stuffs here
+
+picom & # Start compositor
+sxhkd & # Start keybind manager
+wal -i ~/.wallpapers/resistance-singed.jpg # Default to non-offensive theme
+#nitrogen --set-auto ~/.wallpapers/resistance-singed.jpg
+# run bar script and dwm ( do not remove this ) 
+setxkbmap apt
+python ~/.dwm/bar/bar.py
