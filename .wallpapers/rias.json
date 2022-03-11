@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/eclipse/.wallpapers/rias-stripes.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#160f10",
+        "foreground": "#e8e4e7",
+        "cursor": "#e8e4e7"
+    },
+    "colors": {
+        "color0": "#160f10",
+        "color1": "#9F5B46",
+        "color2": "#C38B72",
+        "color3": "#A69CA0",
+	"color4": "#C3552B",
+        "color5": "#604448",
+        "color6": "#302A35",
+        "color7": "#e8e4e7",
+        "color8": "#a29fa1",
+        "color9": "#9F5B46",
+        "color10": "#C38B72",
+        "color11": "#A69CA0",
+        "color12": "#C3552B",
+        "color13": "#D1BEC1",
+        "color14": "#D7D2DB",
+        "color15": "#e8e4e7"
+    }
+}
